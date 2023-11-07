@@ -1,0 +1,35 @@
+[
+  {
+    "idStudent": "6314077d8c90691cc7961c5d",
+    "idsUniversities": [
+      "6317d2ba632fcca6065c704c",
+      "6317ca1ae592c21e1270ba23"
+    ],
+    "type": "DEGREE",
+    "title": "Titulo de Ingeniero Informatico",
+    "diploma_date": "14/07/2021",
+    "file": "20163827_DEGREE_14_07_2021"
+  },
+  {
+    "idStudent": "6313077d1c90619cc7961c5a",
+    "idsUniversities": [
+      "6317d2ba632fcca60a5c704a",
+      "6317ca1ae592c21f1270b123"
+    ],
+    "type": "DEGREE",
+    "title": "Bachiller en Derecho",
+    "diploma_date": "08/02/2020",
+    "file": "20152417_DEGREE_08_02_2020"
+  },
+  {
+    "idStudent": "6314077d8c90691va7964c5d",
+    "idsUniversities": [
+      "6317d2ba632fcca6065c704c",
+      "6317ca1ae592c21e1270ba23"
+    ],
+    "type": "DEGREE",
+    "title": "Licenciado en Física",
+    "diploma_date": "12/09/2020",
+    "file": "20173244_DEGREE_12_09_2020"
+  }
+]
